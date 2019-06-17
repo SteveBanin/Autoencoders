@@ -1,0 +1,17 @@
+{
+    "bounds": 1000,
+    "estimator": "length",
+    "evaluator": "lanedist",
+    "intro_chance": 0.15,
+    "join_probability": 0.5,
+    "l_lanes": 1,
+    "lane_width": 4.0,
+    "max_angle": 5.0,
+    "mut_chance": 0.05,
+    "partial_merge_d_count": 1,
+    "partial_merge_m_count": 1,
+    "pop_size": 25,
+    "r_lanes": 1,
+    "selector": "tournament",
+    "try_all_ops": true
+}
